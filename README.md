@@ -2,8 +2,10 @@
 学习RxSwift后的练习项目，会写多少个暂时未定。
 
 使用的版本为：
+```
 pod 'RxSwift', '~> 4.0'
 pod 'RxCocoa', '~> 4.0'
+```
 
 ## 项目1：TapCounter
 计算点击次数。
