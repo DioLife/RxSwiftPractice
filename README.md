@@ -27,3 +27,10 @@ pod 'RxCocoa', '~> 4.0.0'
 学习订阅事件，以及如何将界面属性与数据进行绑定的操作。
 
 ![image](https://github.com/flywo/RxSwiftPractice/blob/master/03TimeChoice/03.gif)
+
+## 项目4：ImageChoice
+选择图片。
+
+学习如何通过RxSwift在两个VC之间传值以及数据与界面绑定。
+
+![image](https://github.com/flywo/RxSwiftPractice/blob/master/04ImageChoice/04.gif)
