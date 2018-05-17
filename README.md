@@ -20,3 +20,10 @@ pod 'RxCocoa', '~> 4.0.0'
 学习如何订阅手势事件。
 
 ![image](https://github.com/flywo/RxSwiftPractice/blob/master/02ImageGR/02.gif)
+
+## 项目3：Time
+显示系统时间。
+
+学习订阅事件，以及如何将界面属性与数据进行绑定的操作。
+
+![image](https://github.com/flywo/RxSwiftPractice/blob/master/03TimeChoice/03.gif)
