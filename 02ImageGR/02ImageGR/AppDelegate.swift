@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  02ImageGestureRecognizer
+//  02ImageGR
 //
-//  Created by yuhua on 2018/5/16.
-//  Copyright © 2018年 余华. All rights reserved.
+//  Created by baiwei－mac on 2018/5/17.
+//  Copyright © 2018年 YuHua. All rights reserved.
 //
 
 import UIKit
